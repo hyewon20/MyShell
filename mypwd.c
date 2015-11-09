@@ -3,6 +3,7 @@
 #include <string.h>
 
 #define DIR_SIZE 1024
+
 void print_help();
 
 int main(int argc, char** argv) {
